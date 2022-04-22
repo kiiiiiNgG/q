@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(13, 6, 53);
+}
+* {
+  box-sizing: border-box;
+}
+.A {
+  width: 800px;
+  height: 500px;
+  border-radius: 3%;
+  background-color: #ffb700;
+  align-content: center;
+}
